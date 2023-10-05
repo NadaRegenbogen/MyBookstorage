@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Bookshelf</title>
+    <link rel="icon" href="./images/reading 1.png"/>
+    <link rel="stylesheet" href="./mybooks.css">
+</head>
+<body>
+<header><img src="./images/reading 1.png" width="300"></header>
+<h1>'Donde esta la biblioteca?'</h1>
+    <div id="selection">
+    <label>Filter books:</label>
+    <select id="filter" onchange="handleFilterChange()">
+    <option value="all">ALL</option>
+    <option value="rgb(239, 57, 75)">UNREAD</option>
+    <option value="rgb(127, 210, 255)">READ</option>
+    </select></div>
+ <div id="thediv"></div>
+</body>
+<footer>Created by Beton Glitch Design, Belgrade 2023</footer>
+<script src="./thebooks.js"></script>
+</html>

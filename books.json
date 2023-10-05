@@ -1,0 +1,183 @@
+  
+  [
+    {
+        "id": 1,
+        "name": "Ratovi zombija",
+        "author": "Aleksandar Hemon",
+        "image": "./images/book0.jpg"
+    },
+    {
+        "id": 2,
+        "name": "U miso supi",
+        "author": "Rju Murakami",
+        "image": "./images/book01.jpg"
+    },
+    {
+        "id": 3,
+        "name": "S najgorim namerama",
+        "author": "Aleksandar Piperino",
+        "image": "./images/book02.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Razmišljam da okončam ovo",
+        "author": "Ijan Rid",
+        "image": "./images/book2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Slobodna",
+        "author": "Lea Ipi",
+        "image": "./images/book3.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Blacksad",
+        "author": "Diaz Kanales, Guarnido",
+        "image": "./images/book4.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Reintegracija dezintegracije",
+        "author": "Moebius",
+        "image": "./images/book5.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Urugvajka",
+        "author": "Pedro Mairal",
+        "image": "./images/book6.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Polazak sa stanice Atoča",
+        "author": "Ben Lerner",
+        "image": "./images/book7.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Tecite suze moje",
+        "author": "Filip Dik",
+        "image": "./images/book8.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Putujuće kazalište",
+        "author": "Zoran Ferić",
+        "image": "./images/book9.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Crkni ljubavi",
+        "author": "Arijana Harviks",
+        "image": "./images/book10.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Sjajno mjesto za nesreću",
+        "author": "Damir Karakaš",
+        "image": "./images/book11.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Maus",
+        "author": "Art Špigelman",
+        "image": "./images/book12.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Ljudski aparat",
+        "author": "Marko Braković",
+        "image": "./images/book13.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Tirza",
+        "author": "Arnon Grundberg",
+        "image": "./images/book14.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Čarape",
+        "author": "Nando Abad",
+        "image": "./images/book15.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Komo",
+        "author": "Srđan Valjarević",
+        "image": "./images/book16.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Herr Lehman",
+        "author": "Sven Regener",
+        "image": "./images/book17.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Nil Gejman",
+        "author": "Skaske",
+        "image": "./images/book18.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Dženi Olfi",
+        "author": "Zavod za nagađanje",
+        "image": "./images/book19.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Elena Ferante",
+        "author": "Mučna ljubav",
+        "image": "./images/book20.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Poglavnikova bakterija",
+        "author": "Boris Dežulović",
+        "image": "./images/book23.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Čekaj do proleća Bandini",
+        "author": "Fante",
+        "image": "./images/book24.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Mumin",
+        "author": "Tuve Jansen",
+        "image": "./images/book25.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Izdisaj",
+        "author": "Ted Čang",
+        "image": "./images/book22.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Trunje",
+        "author": "Kšištof Varga",
+        "image": "./images/book21.jpg"
+    },
+    {
+        "id": 28,
+        "name": "The buried giant",
+        "author": "Kazuo Ishiguro",
+        "image": "./images/book27.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Putopis jednog mačka",
+        "author": "Hiro Arikava",
+        "image": "./images/book26.jpg"
+    },
+    {
+        "id": 30,
+        "name": "The handmaid's tale",
+        "author": "Margaret Atwood",
+        "image": "./images/book28.jpg"
+    }
+]
